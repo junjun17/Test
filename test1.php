@@ -1,0 +1,5 @@
+<?php
+$test1 = "Testing 123";
+echo $test1;
+
+?>
